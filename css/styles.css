@@ -1,0 +1,14 @@
+label {
+  padding-right: 15px;
+  font-weight:bolder;
+}
+.btn {
+  margin-left: 20px;
+}
+.result {
+  display: none;
+  margin-top: 40px;
+  font-weight: bolder;
+  font-size: 200%;
+  font-family: monospace;
+}
